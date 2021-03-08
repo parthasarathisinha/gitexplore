@@ -1,0 +1,3 @@
+*.js
+# dont ignore app.js
+!app.js
