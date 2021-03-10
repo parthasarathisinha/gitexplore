@@ -2,4 +2,8 @@ Onefunction- I have added a very very important function here
 
 Added a chart function in our branch
 
+<<<<<<< Updated upstream
 added a code for doing logout
+=======
+When I add something new in this file
+>>>>>>> Stashed changes
